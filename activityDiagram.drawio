@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T03:08:59.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="3qfGLZYo1FdvmYZRR2bt" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T03:10:00.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="FswxwJun9i269vMmihG4" version="22.1.9" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="7000" dy="3607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -702,7 +702,7 @@
         <mxCell id="CHqkZFaA4Pbt0bsiCunF-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CHqkZFaA4Pbt0bsiCunF-112" target="CHqkZFaA4Pbt0bsiCunF-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CHqkZFaA4Pbt0bsiCunF-158" value="Nông dân" style="swimlane;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="CHqkZFaA4Pbt0bsiCunF-158" value="Khách vãng lai, Người dùng, Nông dân" style="swimlane;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2590" y="1410" width="340" height="600" as="geometry" />
         </mxCell>
         <mxCell id="CHqkZFaA4Pbt0bsiCunF-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="CHqkZFaA4Pbt0bsiCunF-158" source="CHqkZFaA4Pbt0bsiCunF-160" target="CHqkZFaA4Pbt0bsiCunF-162" edge="1">
