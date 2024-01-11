@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T07:26:39.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="NHDstbqxvCC6cF8RH8N3" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T08:51:25.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JQimSzfYo64F-l0qGFk1" version="22.1.18" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1235" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1734,8 +1734,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZ7qbRIB6JYPv3LZbxoM-145" value="Xem sản phẩm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="795" y="1770" width="100" height="30" as="geometry" />
+        <mxCell id="bZ7qbRIB6JYPv3LZbxoM-145" value="Xem danh sách sản phẩm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="765" y="1770" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bZ7qbRIB6JYPv3LZbxoM-146" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1794,7 +1794,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bZ7qbRIB6JYPv3LZbxoM-155" value="Hiển thị danh sách&lt;br&gt;&amp;nbsp;đơn hàng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="bZ7qbRIB6JYPv3LZbxoM-155" value="Hiển thị danh sách&lt;br&gt;&amp;nbsp;sản phẩm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="780" y="2040" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bZ7qbRIB6JYPv3LZbxoM-156" value="Giao diện" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
